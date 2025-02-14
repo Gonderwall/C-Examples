@@ -1,5 +1,4 @@
 # C Programming Examples
-# C Programming Examples Repository
 
 This repository contains various example codes related to the **C programming language**. The examples cover fundamental concepts such as:
 
